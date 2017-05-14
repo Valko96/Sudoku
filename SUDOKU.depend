@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1494583942 source:c:\users\valkó\desktop\beta_sudoku\szamnovelo.cpp
+	"widget.hpp"
+	"szamnovelo.hpp"
+	"graphics.hpp"
+	<sstream>
+	<iostream>
+
+1494260153 c:\users\valkó\desktop\beta_sudoku\widget.hpp
+	<iostream>
+	"graphics.hpp"
+	<fstream>
+
+1488260528 c:\users\valkó\desktop\beta_sudoku\include\graphics.hpp
+	<string>
+
+1494583335 c:\users\valkó\desktop\beta_sudoku\szamnovelo.hpp
+	"widget.hpp"
+	"fstream"
+
+1494260153 source:c:\users\valkó\desktop\beta_sudoku\widget.cpp
+	"widget.hpp"
+	<iostream>
+	"graphics.hpp"
+
+1494583948 source:c:\users\valkó\desktop\beta_sudoku\main.cpp
+	"graphics.hpp"
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"widget.hpp"
+	"szamnovelo.hpp"
+	"mezoertek.hpp"
+
+1494582871 source:c:\users\valkó\desktop\beta_sudoku\mezoertek.cpp
+	"mezoertek.hpp"
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
+1494582829 c:\users\valkó\desktop\beta_sudoku\mezoertek.hpp
+	<vector>
+	<iostream>
+
+1494758119 source:c:\users\valkó\desktop\felkesz_sudoku\main.cpp
+	"graphics.hpp"
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"widget.hpp"
+	"szamnovelo.hpp"
+	"mezoertek.hpp"
+
+1488260528 c:\users\valkó\desktop\felkesz_sudoku\include\graphics.hpp
+	<string>
+
+1494260153 c:\users\valkó\desktop\felkesz_sudoku\widget.hpp
+	<iostream>
+	"graphics.hpp"
+	<fstream>
+
+1494583335 c:\users\valkó\desktop\felkesz_sudoku\szamnovelo.hpp
+	"widget.hpp"
+	"fstream"
+
+1494756917 c:\users\valkó\desktop\felkesz_sudoku\mezoertek.hpp
+	<vector>
+	<iostream>
+
+1494758066 source:c:\users\valkó\desktop\felkesz_sudoku\mezoertek.cpp
+	"mezoertek.hpp"
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<time.h>
+	"widget.hpp"
+
+1494757929 source:c:\users\valkó\desktop\felkesz_sudoku\szamnovelo.cpp
+	"widget.hpp"
+	"szamnovelo.hpp"
+	"graphics.hpp"
+	<sstream>
+	<iostream>
+
+1494260153 source:c:\users\valkó\desktop\felkesz_sudoku\widget.cpp
+	"widget.hpp"
+	<iostream>
+	"graphics.hpp"
+
